@@ -1,6 +1,5 @@
-# Loan-Prediction
+# Loan-Prediction-Problem Statement
 
-##Problem Statement##
 
 About Company-
 Dream Housing Finance company deals in all home loans. 
